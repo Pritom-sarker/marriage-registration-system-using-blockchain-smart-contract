@@ -33,19 +33,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Marriage Registration System Using Blockchain Smart Contract</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+     bitcoin has emerged as a disruptive technology with the power to revolutionize business and its processes. Advantages of the blockchain include decentralized control, immutability, elimination of central authority, and solution of concurrency problems in traditional databases. Leveraging on the advantages of blockchain technology defined above, this project uses blockchain technology for the registry system of marriage. Two users can be married to each other using our deployed smart contract, and they can store an amount of money on the system. if they get a divorce then they can withdraw the funds.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://rinkeby.etherscan.io/address/0xb0e449b4287862f36a5d076eb54e23e12bda708c"><strong>Explore the Smart Contract »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract/issues">Request Feature</a>
   </p>
 </div>
 
