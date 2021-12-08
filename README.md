@@ -115,6 +115,7 @@ To get a local copy up and running follow these simple example steps.
 You have to install the following things as a priority
 * Python
 * Solidity
+* Install Brownie
 * npm
   ```sh
   npm install npm@latest -g
@@ -130,10 +131,14 @@ _Below is an example of how you can instruct your audience on installing and set
    git clone https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract
 3. Enter your API in `.env`
    ```js
-   export WEB3_INFURA_PROJECT_ID = 'ENTER YOUR API';
+   export WEB3_INFURA_PROJECT_ID = 'ENTER YOUR API'
 4. Enter your Private key in `.env`
    ```js
-   export PRIVATE_KEY1 = 'ENTER YOUR API';
+   export PRIVATE_KEY1 = 'ENTER YOUR API'
+   ```
+5. Type command on console
+   ```
+   Brownie run scripts/deploy.py
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -143,28 +148,11 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This project is can be used as an open-source marriage registration system based on smart contracts. Because it's a Blockchain-based system so it's a reliable system and it's a very strong system in terms of security.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -198,9 +186,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@Pritom Sarker](https://www.pritom.work/) - Me.Pritom@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Marriage Registration System Using Blockchain Smart Contract](https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
