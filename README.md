@@ -94,8 +94,7 @@ Key point:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+All the used technology and frameworks are listed below:
 
 * [Python](https://www.python.org/)
 * [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
@@ -113,7 +112,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You have to install the following things as a priority
+* Python
+* Solidity
 * npm
   ```sh
   npm install npm@latest -g
@@ -123,18 +124,16 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at  [infura.io](https://infura.io/logout?redirect=%2Fdashboard)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+   git clone https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract
+3. Enter your API in `.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   export WEB3_INFURA_PROJECT_ID = 'ENTER YOUR API';
+4. Enter your Private key in `.env`
+   ```js
+   export PRIVATE_KEY1 = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
